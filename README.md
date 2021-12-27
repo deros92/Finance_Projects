@@ -1,4 +1,6 @@
-# How to download data from yahoofinance with Python
+# FInance Projects
+
+## How to download data from yahoofinance
 
 ### Libraries
 
